@@ -1,3 +1,3 @@
-# packetbeat-cookbook
+# beats-cookbook
 
-Formatron Packetbeat cookbook
+Formatron Beats cookbook
